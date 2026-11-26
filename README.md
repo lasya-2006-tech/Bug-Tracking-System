@@ -59,3 +59,8 @@ The accounts are inserted automatically if they do not already exist. These are 
 
 ## Important academic / security note
 This is a functional academic starter implementation. Passwords are stored as plain text for simplicity in a local lab demonstration; production systems must use salted password hashing, stronger validation, prepared role permissions, and secure configuration. For the strongest demo, expand the UI with edit forms and more detailed exception handling after confirming your instructor's exact expectations.
+## 🎥 Project Video Presentation
+
+Watch the complete Bug Tracking System project demonstration:
+
+[▶ Watch Video Presentation](https://drive.google.com/file/d/1Vhq_a4Pab93vmnudLdCb951nQK2zu5pW/view?usp=sharing)
